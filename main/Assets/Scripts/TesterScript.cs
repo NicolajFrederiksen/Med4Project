@@ -8,6 +8,7 @@ public class TesterScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Virker det ?");
+        //ja
     }
 
     // Update is called once per frame
