@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7e0f1031769b6c4aba4218a26776d84, type: 3}
   m_Name: Book test
   m_EditorClassIdentifier: 
-  page: []
+  page:
+  - pageTitel: hassda
+    pageText: sdsdaasdasdsadasdasd
+  - pageTitel: asdsdadssda
+    pageText: asdasddsas
