@@ -10,12 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7e0f1031769b6c4aba4218a26776d84, type: 3}
-  m_Name: Amalies historie
+  m_Name: Book test
   m_EditorClassIdentifier: 
-  page:
-  - pageTitel: Chapter 0
-    pageText: "ahdjajshdjdhasdkjhasdajdsh\t\t"
-  - pageTitel: asdasdasd
-    pageText: asdasddsaasqweqwe
-  - pageTitel: 12312312asd
-    pageText: asdasasdsad
+  page: []

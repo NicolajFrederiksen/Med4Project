@@ -15,8 +15,6 @@ public class StoryManager : MonoBehaviour
     public int pageIndex;
 
 
-
-
     private void OnValidate()
     {
         
