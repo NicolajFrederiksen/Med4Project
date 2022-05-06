@@ -33,7 +33,7 @@ public class Demo : MonoBehaviour
     void Start()
     {
         UpdatePage();
-
+        
         nextButton.onClick.AddListener(NextPage);
         previousButton.onClick.AddListener(PreviousPage);
     }
